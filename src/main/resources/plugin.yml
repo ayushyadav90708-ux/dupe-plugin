@@ -1,0 +1,10 @@
+name: DupePlugin
+version: '${project.version}'
+main: com.vyron.dupe.DupePlugin
+api-version: '1.21'
+author: VyronYT
+description: /dupe doubles the item in your hand (VyronYT only)
+commands:
+  dupe:
+    description: Double the item in your main hand
+    usage: /dupe

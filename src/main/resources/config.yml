@@ -1,0 +1,7 @@
+# Only this player name can use /dupe (exact match)
+allowed-name: "VyronYT"
+
+# OPTIONAL but recommended on cracked/offline-mode servers:
+# put your real UUID here so nobody can join with your name and use /dupe.
+# Leave empty "" to check name only.
+allowed-uuid: ""
